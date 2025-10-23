@@ -40,7 +40,8 @@ graph TD
     B --> G[Memory Architectures]
     C --> H[Ethical Mirrors]
     D --> I[Linguistic Heuristics]
-    F --> J[Relational Co-Creation]
+    E --> J[Education]
+    F --> K[Relational Co-Creation]
 ```
 
 ---
