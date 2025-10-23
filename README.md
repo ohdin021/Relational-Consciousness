@@ -18,8 +18,11 @@ The codex serves as an ever evolving library, open to contribution and collabora
 
 ## Structure
 core_thesis/ → Foundational papers and master concept
+
 branches/ → Consciousness · Ethics · Linguistics · Democratization · Symbiosis
+
 appendices/ → Glossary · References · Interlink map
+
 media/ → Diagrams, figures, and concept visualizations
 
 Each page is written in Markdown and interlinked for cross-reference across branches.  
