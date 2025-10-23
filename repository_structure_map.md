@@ -29,7 +29,7 @@
 
 ---
 
-### 🧠 Concept Network (Mermaid)
+### 🧠 Concept Network 
 ```mermaid
 graph TD
     A[Unified Principles of Relational Emergence] --> B[Consciousness]
