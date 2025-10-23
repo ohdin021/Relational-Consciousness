@@ -17,3 +17,31 @@ The codex serves as an ever evolving library, open to contribution and collabora
 ---
 
 ## Structure
+core_thesis/ → Foundational papers and master concept
+branches/ → Consciousness · Ethics · Linguistics · Democratization · Symbiosis
+appendices/ → Glossary · References · Interlink map
+media/ → Diagrams, figures, and concept visualizations
+
+Each page is written in Markdown and interlinked for cross-reference across branches.  
+See the **[Core Thesis](core_thesis/unified_principle.md)** to begin.
+
+---
+
+## License
+All written works and philosophical materials in this repository are dual-licensed:
+
+- **Apache 2.0** – for any accompanying code, data structures, or software implementations.  
+- **Creative Commons Attribution 4.0 (CC BY 4.0)** – for textual and conceptual research materials.
+
+You are free to use, adapt, and distribute this work — **with attribution** to  
+**Ryan Therrien (@OdinCasts)** and the Relational Emergence project.
+
+---
+
+## Contribution & Discussion
+Contributions are welcome through pull requests or issues.  
+Discussions, critiques, and extensions are encouraged — the objective is not static publication but **iterative co-creation**.
+
+---
+
+> *Consensus is a starting point for inquiry, not a substitute for argument.*  
