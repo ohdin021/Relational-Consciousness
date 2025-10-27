@@ -71,6 +71,9 @@ similarity = |words_response ∩ words_prediction| / |words_response ∪ words_p
 - **Temporal Drift**: +8.15% (slight improvement over time)
 - **Autocorrelation**: Low (sessions independent)
 
+
+<img width="3570" height="2365" alt="phase2_analysis_20251006_222954" src="https://github.com/user-attachments/assets/ddbfc3eb-72cd-40a8-b0ba-7bfefbfbbd24" />
+
 ## Chart Interpretation Guide
 
 The visualization contains four analytical panels:
