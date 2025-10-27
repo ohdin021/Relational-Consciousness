@@ -16,7 +16,7 @@ This work aims to unify cognitive science, linguistics, ethics, and systems theo
 The codex serves as an ever evolving library, open to contribution and collaboration. Decentralize, Democratize, Educate. 
 ---
 
-## Structure (Pages under construction)
+## Structure (Pages/Branches under construction)
 core_thesis/ → Foundational papers and master concept
 
 branches/ → Consciousness · Ethics · Linguistics · Democratization · Symbiosis
