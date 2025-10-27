@@ -25,6 +25,8 @@ appendices/ → Glossary · References · Interlink map
 
 media/ → Diagrams, figures, and concept visualizations
 
+research/ → Reports of tests and experiments: local stack, Custom LoRA building scripts, ChatGPT, Grok, Claude, MythoMax, Mistral, Llama, Gemini & more
+
 Each page is written in Markdown and interlinked for cross-reference across branches.  
 See the **[Core Thesis](core_thesis/unified_principle.md)** to begin.
 
