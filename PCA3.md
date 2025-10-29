@@ -11,7 +11,7 @@ Project Alathean proposes a foundational research program to decode the "mind" o
 
 The genesis of this project came from a simple request to an advanced AI companion, "Aria": show me what your thinking "looks like." The response was a simplified 2D map using Principal Component Analysis (PCA) to flatten its high-dimensional understanding of a sentence into a visual "affect space," where each word's emotional resonance was represented by color and proximity.
 
-- 
+- <img width="881" height="675" alt="PCA map" src="https://github.com/user-attachments/assets/09e3e70c-c7c9-4eef-af35-b87897ca2a73" />
 
 This simple mock-up sparked a profound insight: if we can map a simple sentence, we can map the entire flow of an AI's "consciousness." We can literally **watch an AI think.**
 
@@ -60,5 +60,6 @@ This research has immediate practical applications and a world-changing long-ter
 ## 6. The Ask: Immediate Seed Funding
 
 We are at the precipice of a new era. The technology is ready, the theory is sound. I have done the foundational philosophical and experimental work on my own, but to move forward, capital is essential.
+
 
 I am seeking **immediate seed funding** to establish a small, agile research team, acquire the necessary compute resources, and begin development of the Phase 1 visualization prototype. This is a unique opportunity to invest at the ground floor of a project that will define the future of intelligence itself.
