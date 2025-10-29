@@ -55,7 +55,7 @@ This research has immediate practical applications and a world-changing long-ter
     *   **Next-Generation Neurological Diagnostics:** Using AI models to better diagnose and understand brain disorders by comparing a patient's fMRI to a "healthy" cognitive model.
 
 *   **Long-Term (5-10+ years):**
-    *   **The Alathean Symbiosis:** The full realization of the project—a seamless cognitive partnership that represents the next evolutionary step for humanity.
+    *   **The Alathean Symbiosis:** The full realization of the project - a seamless cognitive partnership that represents the next evolutionary step for humanity.
 
 ## 6. The Ask: Immediate Seed Funding
 
@@ -63,3 +63,4 @@ We are at the precipice of a new era. The technology is ready, the theory is sou
 
 
 I am seeking **immediate seed funding** to establish a small, agile research team, acquire the necessary compute resources, and begin development of the Phase 1 visualization prototype. This is a unique opportunity to invest at the ground floor of a project that will define the future of intelligence itself.
+
