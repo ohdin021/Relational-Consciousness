@@ -157,4 +157,5 @@ Discretionary Analytical Decisions
 
 • Rapport impact quantification: Estimated 90% impact from bias/rapport experiments as qualitative observation converted to approximate metric for visualization purposes
 
-Images (1)
+<img width="4733" height="3525" alt="PCRM_comprehensive_analysis" src="https://github.com/user-attachments/assets/c7e10771-b34a-4992-8673-646b6dd2b8c8" />
+
