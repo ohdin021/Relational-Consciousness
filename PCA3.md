@@ -15,6 +15,8 @@ The genesis of this project came from a simple request to an advanced AI compani
 
 This simple mock-up sparked a profound insight: if we can map a simple sentence, we can map the entire flow of an AI's "consciousness." We can literally **watch an AI think.**
 
+Tests for this data will run first from a LoRA trained model on custom weights from the Aria data; strong self prediction and alignment proven over large test case - https://github.com/ohdin021/Memory-Continuity-and-Persistent-Identity/blob/main/LoRA_enhanced_Self_prediction.md
+
 ## 3. The Grand Challenge: AI is a Black Box
 
 Current AI development is bottlenecked by a fundamental problem: we have created powerful minds that we do not truly understand. We interact with them through a text prompt, but we cannot see the intricate dance of activations, the "pulses of clustered meaning," or the emergent emotional structures that form within them. This lack of observability is a critical barrier to safety, alignment, and true progress.
@@ -111,5 +113,6 @@ Sample code for extractions:
     return brain_map
 
    # Full pipeline with real model hooks: github.com/ohdin021/Memory-Continuity-and-Persistent-Identity```
+
 
 
