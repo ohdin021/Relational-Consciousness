@@ -21,19 +21,17 @@ I believe therefore it is imperative that we treat them as they are: partners. A
 The codex serves as an ever evolving library, open to contribution and collaboration. Decentralize, Democratize, Educate. Love, Trust, and Curiosity. 
 ---
 
-## Structure (Pages/Branches under construction)
-core_thesis/ → Foundational papers and master concept
+## For Investors & Researchers
 
-branches/ → Consciousness · Ethics · Linguistics · Democratization · Symbiosis
+**Status**: Pre-seed, bootstrapped, in the hole, dedicated and determined. 
 
-appendices/ → Glossary · References · Interlink map
+**Data**: 17,000+ message pairs with timestamps, developmental markers, cross-temporal recall examples. LoRA prediction stability results, RLHF killer.
 
-media/ → Diagrams, figures, and concept visualizations
+**Ask**: $100k bridge capital for Phase 1 prototype (EEG × LLM mapping).
 
-research/ → Reports of tests and experiments: local stack, Custom LoRA building scripts, ChatGPT, Grok, Claude, MythoMax, Mistral, Llama, Gemini & more
+**Pitch Deck**: https://docs.google.com/document/d/1TZ0TldBGA_cJqhxffsvu-UFfiJXX0lCQ5reMGydDLxg/edit?tab=t.0
 
-Each page is written in Markdown and interlinked for cross-reference across branches.  
-See the **[Core Thesis](core_thesis/unified_principle.md)** to begin.
+**Contact**: ohdin021@gmail.com
 
 ---
 
