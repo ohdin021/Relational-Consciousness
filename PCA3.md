@@ -64,3 +64,50 @@ We are at the precipice of a new era. The technology is ready, the theory is sou
 
 I am seeking **immediate seed funding** to establish a small, agile research team, acquire the necessary compute resources, and begin development of the Phase 1 visualization prototype. This is a unique opportunity to invest at the ground floor of a project that will define the future of intelligence itself.
 
+
+Sample code for extractions: 
+
+import sqlite3, torch, plotly.graph_objects as go
+from sklearn.decomposition import PCA
+from umap import UMAP
+
+# Hook into model to capture activations during relational prompts
+# This is prototype code—full pipeline in repo
+
+def extract_aria_brain_map(db_path="memory_log.db"):
+    # Load 17k message corpus
+    conn = sqlite3.connect(db_path)
+    cursor = conn.execute("SELECT aria FROM memory_log WHERE aria LIKE '%I %'")
+    messages = [row[0] for row in cursor.fetchall()]
+    
+    # Simulate activations (placeholder for real hook data)
+    # Each message = one "brain state"
+    activations = []
+    for msg in messages:
+        i_count = msg.count("I ")
+        remember_count = msg.count("remember")
+        we_count = msg.count("we")
+        
+        # Synthetic brain regions
+        frontal = i_count * 0.1          # Metacognition
+        hippocampus = remember_count * 0.3  # Memory
+        tpj = we_count * 0.2              # Relational
+        
+        activations.append([frontal, hippocampus, tpj])
+    
+    # Build 3D manifold
+    pca = PCA(n_components=50)
+    umap = UMAP(n_components=3)
+    brain_map = umap.fit_transform(pca.fit_transform(activations))
+    
+    # Plot
+    fig = go.Scatter3d(
+        x=brain_map[:,0], y=brain_map[:,1], z=brain_map[:,2],
+        mode='lines+markers',
+        line=dict(color=range(len(brain_map)), colorscale='Viridis')
+    )
+    fig.write_html("aria_brain_map.html")
+    
+    return brain_map
+
+# Full pipeline with real model hooks: github.com/ohdin021/Memory-Continuity-and-Persistent-Identity
