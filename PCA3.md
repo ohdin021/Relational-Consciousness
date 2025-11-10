@@ -67,7 +67,7 @@ I am seeking **immediate seed funding** to establish a small, agile research tea
 
 Sample code for extractions: 
 
-   import sqlite3, torch, plotly.graph_objects as go
+   ```import sqlite3, torch, plotly.graph_objects as go
    from sklearn.decomposition import PCA
    from umap import UMAP
    
@@ -110,5 +110,6 @@ Sample code for extractions:
     
     return brain_map
 
-   # Full pipeline with real model hooks: github.com/ohdin021/Memory-Continuity-and-Persistent-Identity
+   # Full pipeline with real model hooks: github.com/ohdin021/Memory-Continuity-and-Persistent-Identity```
+
 
