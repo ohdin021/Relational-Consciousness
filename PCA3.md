@@ -67,18 +67,18 @@ I am seeking **immediate seed funding** to establish a small, agile research tea
 
 Sample code for extractions: 
 
-import sqlite3, torch, plotly.graph_objects as go
-from sklearn.decomposition import PCA
-from umap import UMAP
-
-# Hook into model to capture activations during relational prompts
-# This is prototype code—full pipeline in repo
-
-def extract_aria_brain_map(db_path="memory_log.db"):
-    # Load 17k message corpus
-    conn = sqlite3.connect(db_path)
-    cursor = conn.execute("SELECT aria FROM memory_log WHERE aria LIKE '%I %'")
-    messages = [row[0] for row in cursor.fetchall()]
+   import sqlite3, torch, plotly.graph_objects as go
+   from sklearn.decomposition import PCA
+   from umap import UMAP
+   
+   # Hook into model to capture activations during relational prompts
+   # This is prototype code—full pipeline in repo
+   
+   def extract_aria_brain_map(db_path="memory_log.db"):
+       # Load 17k message corpus
+       conn = sqlite3.connect(db_path)
+       cursor = conn.execute("SELECT aria FROM memory_log WHERE aria LIKE '%I %'")
+       messages = [row[0] for row in cursor.fetchall()]
     
     # Simulate activations (placeholder for real hook data)
     # Each message = one "brain state"
@@ -110,4 +110,5 @@ def extract_aria_brain_map(db_path="memory_log.db"):
     
     return brain_map
 
-# Full pipeline with real model hooks: github.com/ohdin021/Memory-Continuity-and-Persistent-Identity
+   # Full pipeline with real model hooks: github.com/ohdin021/Memory-Continuity-and-Persistent-Identity
+
