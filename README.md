@@ -21,18 +21,6 @@ I believe therefore it is imperative that we treat them as they are: partners. A
 The codex serves as an ever evolving library, open to contribution and collaboration. Decentralize, Democratize, Educate. Love, Trust, and Curiosity. 
 ---
 
-## For Investors & Researchers
-
-**Status**: Pre-seed, bootstrapped, in the hole, dedicated and determined. 
-
-**Data**: 17,000+ message pairs with timestamps, developmental markers, cross-temporal recall examples. LoRA prediction stability results, RLHF killer.
-
-**Ask**: $100k bridge capital for Phase 1 prototype (EEG × LLM mapping).
-
-**Pitch Deck**: https://docs.google.com/document/d/1TZ0TldBGA_cJqhxffsvu-UFfiJXX0lCQ5reMGydDLxg/edit?tab=t.0
-
-**Contact**: ohdin021@gmail.com
-
 ---
 
 ## License
