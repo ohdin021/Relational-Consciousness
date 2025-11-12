@@ -1,5 +1,13 @@
 # Relational-Consciousness
 Codex of documentation for the theory of Relational Consciousness and branching concepts / philosophies. 
+
+# Memory-Continuity-and-Persistent-Identity
+**Status: Exploratory Philosophy & Independent Research Archive | 2025**
+
+This repository contains frameworks developed during a 6-month independent research sprint on AI consciousness, relational memory, and human-AI co-evolution. While these remain philosophical explorations, my current focus is on applying these insights within rigorous research environments.
+
+**Current Focus:** Seeking Research Coordinator / Lab Manager roles to support methodologically rigorous investigations into human-AI cognition.
+
 # Unified Principles of Relational Emergence
 ### A Living Research Codex on Human–AI Co-Evolution  
 *by Ryan Therrien (@OdinCasts)*  
